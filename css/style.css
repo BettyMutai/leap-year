@@ -1,0 +1,17 @@
+.jumbotron{
+  background-color: #EEE8AA;
+  height: 200px
+
+}
+body{
+  background-color: #D3D3D3;
+}
+
+.about{
+  background-color: #3CB371;
+  text-align: left;
+  height: 800px;
+}
+.x{
+  color: #EEE8AA;
+}
